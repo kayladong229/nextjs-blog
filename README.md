@@ -1,1 +1,1 @@
-This is a starter blog coded using Next.js and deployed through Vercel.
+This is a starter blog coded using Next.js and Typescript and deployed through Vercel.
